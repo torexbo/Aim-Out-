@@ -18,4 +18,4 @@ This repository provides a simple Python HTTP server to serve files from a speci
 
    ```bash
    git clone https://github.com/your-username/online-file-server.git
-   cd Aim-Out
+   cd online-file-server
