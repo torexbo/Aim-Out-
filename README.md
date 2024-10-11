@@ -22,7 +22,8 @@ We will post some example works every **Friday and Saturday** at specific times.
    ```bash
    ktahan629@gmail.com
 ## Home Works Sample 
-# Simple Python Calculator Example Code :
+## Simple Python Calculator Example Code :
+This is a simple python calculator code for class 5-9 and you can also use it for more higher education but not for university and college level so do you homework now fast 
 ```python
 # Simple Calculator
 x2 = int(input("Enter The First Number : "))
