@@ -1,3 +1,8 @@
+# Hw Methods 
+[![Open in Google Drive](https://img.shields.io/badge/Open%20in-Google%20Drive-blue?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/FILE_ID/view?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo-name/blob/main/your-notebook.ipynb)
+
+
 # Acps Hw HokINGS
 You Can Gmail Us And Tell Your Problem For That Go Down 
 
